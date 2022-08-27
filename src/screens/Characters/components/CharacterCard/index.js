@@ -61,7 +61,7 @@ const CharacterCard = ({ character }) => {
         <AntDesign
           name={isFavorite ? "heart" : "hearto"}
           size={24}
-          color="black"
+          color="#A52A2A"
         />
       </Pressable>
     </View>
