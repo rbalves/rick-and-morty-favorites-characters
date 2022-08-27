@@ -42,7 +42,7 @@ const CharacterCard = ({ character }) => {
         }}
       >
         <View>
-          <Text style={styles.text}>Nome: {name}</Text>
+          <Text style={styles.text}>Name: {name}</Text>
         </View>
         <View>
           <Text style={styles.text}>Gender: {gender}</Text>
